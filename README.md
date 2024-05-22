@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Jose B</h1>
-<h3 align="center">Web Developer living in Colombia and i passionate for the technology</h3>
+<h3 align="center">Web Developer living in Colombia and I'm passionate about technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanJoseBastoGonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="JuanJoseBastoGonzalez" /> </p>
 

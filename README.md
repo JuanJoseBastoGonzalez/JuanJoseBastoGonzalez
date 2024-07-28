@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JuanJoseBastoGonzalez" alt="JuanJoseBastoGonzalez" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">Linkedin: <a href="https://www.linkedin.com/in/juan-jose-basto-gonzalez-49945023a/">Jose Basto Gonzalez</a>
+<p align="left">Linkedin: <a href="https://www.linkedin.com/in/juan-jose-basto-gonzalez-49945023a/">Juan Jose Basto Gonzalez</a>
 
 </p>
 
